@@ -163,7 +163,7 @@
       <h3 class="float-md-start mb-0">Cover</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
         <a class="nav-link fw-bold py-1 px-0 " aria-current="page" href="pagina.php">home</a>
-        <a class="nav-link fw-bold py-1 px-0 active"  href="cad.php">Features</a>
+        <a class="nav-link fw-bold py-1 px-0 active" href="cad.php">Features</a>
         <a class="nav-link fw-bold py-1 px-0" href="login.php">Contact</a>
       </nav>
     </div>

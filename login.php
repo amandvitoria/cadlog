@@ -164,7 +164,7 @@
       <nav class="nav nav-masthead justify-content-center float-md-end">
         <a class="nav-link fw-bold py-1 px-0 " aria-current="page" href="pagina.php">Home</a>
         <a class="nav-link fw-bold py-1 px-0" href="cad.php">Features</a>
-        <a class="nav-link fw-bold py-1 px-0 active" href="login.php">Contact</a>
+        <a class="nav-link fw-bold py-1 px-0 active  " href="login.php">Contact</a>
       </nav>
     </div>
   </header>
