@@ -176,12 +176,12 @@
     <h1>BEM VINDO😊🖐️</h1>
     <p class="lead">OLÁ! Aqui no nosso site você irá se cadastrar, mas se ja tem cadastro é só logar utilizando seu email e senha.</p>
     <p class="lead">
-      <a href="#" class="btn btn-lg btn-light fw-bold border-white bg-white">Começar</a>
+      <a href="cad.php" class="btn btn-lg btn-light fw-bold border-white bg-white">Começar</a>
     </p>
   </main>
 
   <footer class="mt-auto text-white-50">
-    <p>Cover template for <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, by <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
+    <p>Cover template for <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, by <a href="https://github.com/amandvitoria" class="text-white">@Github</a>.</p>
   </footer>
 </div>
 <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
