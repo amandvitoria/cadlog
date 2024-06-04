@@ -247,7 +247,8 @@ background-image: linear-gradient(315deg, #f0ecfc 0%, #c797eb 74%);
 
   <main class="px-3">
    <form method="get" action="">
-
+    <h1>Login</h1>  
+    
    <label for="email">Email</label><br>
    <input type="email"><br><br>
 
@@ -260,7 +261,7 @@ background-image: linear-gradient(315deg, #f0ecfc 0%, #c797eb 74%);
    </form>
   </main>
   <footer class="mt-auto text-white-50">
-    <p>Cover template for <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, by <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
+    <p>Cover template for <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, by <a href="https://github.com/amandvitoria" class="text-white">@Github</a>.</p>
   </footer>
 </div>
 <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
