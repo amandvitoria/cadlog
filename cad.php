@@ -172,17 +172,17 @@
   <main class="px-3">
    <form method="get" action="">
 
-   <label for="Nome">Nome</label>
-   <input type="text">
+   <label for="Nome">Nome</label> <br>
+   <input type="text"> <br> <br>
 
-   <label for="email">email</label>
-   <input type="email">
+   <label for="email">email</label><br>
+   <input type="email"> <br> <br>
 
-   <label for="password">senha</label>
-   <input type="password">
+   <label for="password">senha</label> <br>
+   <input type="password"> <br> <br>
 
-   <label for="password">Confirmar Senha</label>
-   <input type="password">
+   <label for="password">Confirmar Senha</label><br>
+   <input type="password"><br> <br>
 
    <button type="submit">Cadastro</button>
 
