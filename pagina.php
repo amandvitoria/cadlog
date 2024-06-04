@@ -2,7 +2,7 @@
 <html lang="en" class="h-100" data-bs-theme="auto">
   <head><script src="../assets/js/color-modes.js"></script>
 
-    <meta charset="utf-8">
+    <meta charset="utf-8"> 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
@@ -162,9 +162,9 @@
     <div>
       <h3 class="float-md-start mb-0">Cover</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
-        <a class="nav-link fw-bold py-1 px-0 active " aria-current="page" href="pagina.php">Home</a>
-        <a class="nav-link fw-bold py-1 px-0" href="cad.php">Features</a>
-        <a class="nav-link fw-bold py-1 px-0" href="login.php">Contact</a>
+        <a class="nav-link fw-bold py-1 px-0 active " aria-current="page" href="pagina.php">Inicio</a>
+        <a class="nav-link fw-bold py-1 px-0" href="cad.php">Cadastro</a>
+        <a class="nav-link fw-bold py-1 px-0" href="login.php">Login</a>
       </nav>
     </div>
   </header>

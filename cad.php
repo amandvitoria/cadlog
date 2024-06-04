@@ -2,12 +2,12 @@
 <html lang="en" class="h-100" data-bs-theme="auto">
   <head><script src="../assets/js/color-modes.js"></script>
 
-    <meta charset="utf-8">
+    <meta charset="utf-8"> 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.122.0">
-    <title>cad</title>
+    <title>pagina</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 
@@ -97,7 +97,7 @@
       .bd-mode-toggle .dropdown-menu .active .bi {
         display: block !important;
       }
-      
+
     </style>
 
     
@@ -162,21 +162,32 @@
     <div>
       <h3 class="float-md-start mb-0">Cover</h3>
       <nav class="nav nav-masthead justify-content-center float-md-end">
-        <a class="nav-link fw-bold py-1 px-0 " aria-current="page" href="pagina.php">home</a>
-        <a class="nav-link fw-bold py-1 px-0 active" href="cad.php">Features</a>
-        <a class="nav-link fw-bold py-1 px-0" href="login.php">Contact</a>
+        <a class="nav-link fw-bold py-1 px-0  " aria-current="page" href="pagina.php">Inicio</a>
+        <a class="nav-link fw-bold py-1 px-0 active" href="cad.php">Cadastro</a>
+        <a class="nav-link fw-bold py-1 px-0" href="login.php">Login</a>
       </nav>
     </div>
   </header>
 
   <main class="px-3">
-    <h1>Cover your page.</h1>
-    <p class="lead">Cover is a one-page template for building simple and beautiful home pages. Download, edit the text, and add your own fullscreen background photo to make it your own.</p>
-    <p class="lead">
-      <a href="#" class="btn btn-lg btn-light fw-bold border-white bg-white">Learn more</a>
-    </p>
-  </main>
+   <form method="get" action="">
 
+   <label for="Nome">Nome</label>
+   <input type="text">
+
+   <label for="email">email</label>
+   <input type="email">
+
+   <label for="password">senha</label>
+   <input type="password">
+
+   <label for="password">Confirmar Senha</label>
+   <input type="password">
+
+   <button type="submit">Cadastro</button>
+
+   </form>
+  </main>
   <footer class="mt-auto text-white-50">
     <p>Cover template for <a href="https://getbootstrap.com/" class="text-white">Bootstrap</a>, by <a href="https://twitter.com/mdo" class="text-white">@mdo</a>.</p>
   </footer>
