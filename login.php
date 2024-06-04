@@ -171,7 +171,9 @@ background-image: linear-gradient(315deg, #f0ecfc 0%, #c797eb 74%);
 .btn-8 span:hover:after {
   width: 100%;
 }
-
+ body{
+  font-family: Arial, Helvetica, sans-serif;
+ }
   </style>
 
     
