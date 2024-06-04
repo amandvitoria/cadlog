@@ -97,6 +97,9 @@
       .bd-mode-toggle .dropdown-menu .active .bi {
         display: block !important;
       }
+      body{
+        font-family: Arial, Helvetica, sans-serif;
+      }
 
     </style>
 
