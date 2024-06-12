@@ -1,21 +1,22 @@
-## Introdução
-Neste projeto fiz ajustes para um site que tinha que ajeitar as paginas de inicio, cadastro e login.
+# Atividade Tela de Login, Cadastro e Inicial
+Neste projeto, realizei ajustes em um site, criando páginas de início, cadastro e login. O intuito da atividade foi principalmente a melhora das habilidades de programação e a aplicação das mesmas em nosso projeto final ou TCC.
+
 
 ## Fonte utilizada
-Para a criação da aplicação descrita nessa tarefa, foi utilizado o Bootstrap 5+. Um dos modelos disponíveis e que cabe perfeitamente para essa atividade é o exemplo "Cover" do Bootstrap, disponível em:
-Bootstrap Cover Example
-(bootstrasp)[https://getbootstrap.com/docs/5.0/examples/cover/] 
+![gif](imgs/Captura%20de%20tela%202024-06-12%20080056.png)
 
-## Ajustes
-O menu superior de navegação foi ajustado para incluir as seguintes paginas:
-👇👇
+Para a criação da aplicação descrita nesta tarefa, utilizei o Bootstrap 5+. Um dos modelos disponíveis e que se adequa perfeitamente a essa atividade é o exemplo "Cover" do Bootstrap, disponível em: Bootstrap Cover Example.
+
+## O QUE FOI FEITO?
+![gif](imgs/telacadlog.gif)
+O menu superior de navegação foi ajustado para incluir as seguintes páginas:
+
 Início (index.php)
 Cadastro (cad.php)
 Login (login.php)
 
-## Estrutura
 A estrutura dos arquivos da aplicação é a seguinte:
-👇👇
+
 index.php: Tela principal da aplicação.
 login.php: Tela de login.
 cad.php: Tela de cadastro.
