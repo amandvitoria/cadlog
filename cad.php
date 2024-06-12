@@ -172,6 +172,13 @@ background-image: linear-gradient(315deg, #f0ecfc 0%, #c797eb 74%);
 .btn-8 span:hover:after {
   width: 100%;
 }
+main{
+        width:300px;
+        height: 500px;
+        background-color: black;
+        margin: auto;
+        border-radius: 10px;
+      }
 
 body{
   font-family: Arial, Helvetica, sans-serif;

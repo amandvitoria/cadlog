@@ -50,6 +50,15 @@
         height: 100vh;
       }
 
+      main{
+        width: 300px;
+        height: 400px;
+        background-color: black;
+        margin: auto;
+        border-radius: 10px;
+      }
+
+
       .bi {
         vertical-align: -.125em;
         fill: currentColor;
@@ -97,7 +106,7 @@
       .bd-mode-toggle .dropdown-menu .active .bi {
         display: block !important;
       }
-         /* 8 */
+         /* 8 cor */
 .btn-8 {
   background-color: #f0ecfc;
 background-image: linear-gradient(315deg, #f0ecfc 0%, #c797eb 74%);
@@ -150,7 +159,7 @@ background-image: linear-gradient(315deg, #f0ecfc 0%, #c797eb 74%);
   content: "";
   left: 0;
   top: 0;
-  background: #c797eb;
+  background: white;
   /*box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
               -4px -4px 6px 0 rgba(116, 125, 136, .2), 
     inset -4px -4px 6px 0 rgba(255,255,255,.5),
@@ -173,6 +182,9 @@ background-image: linear-gradient(315deg, #f0ecfc 0%, #c797eb 74%);
 }
  body{
   font-family: Arial, Helvetica, sans-serif;
+ }
+ input{
+  border-radius: 7px;
  }
   </style>
 
@@ -246,9 +258,9 @@ background-image: linear-gradient(315deg, #f0ecfc 0%, #c797eb 74%);
   </header>
 
   <main class="px-3">
-   <form method="get" action="">
+   <form class="form" method="get" action="">
     <h1>Login</h1>  
-    
+
    <label for="email">Email</label><br>
    <input type="email"><br><br>
 
